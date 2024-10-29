@@ -1,6 +1,6 @@
-# Pytest Automation Framework - Performance Testing Using Jmeter, Gatling and Python
+# Pytest Automation Framework - Performance Testing Using Jmeter and Python
 -----------------------------------------------------------------------------------------------
-This project is an automation framework for to test performance of  googlemap api's using **Jmeter**, **Gatling**, **Python's Pytest and Pymeter** .
+This project is an automation framework for to test performance of  googlemap api's using **Jmeter**, **Python's Pytest and Pymeter** .
 
 - Google Direction, Geolocation and Geocode api's.
 - Test execution using PyTest.
@@ -25,7 +25,6 @@ This framework automates jmeter actions in two ways.
 - **Pymeter**: Python package to capture jmeter tests
 - **Pytest**: Test framework for writing and executing test cases
 - **Jmeter**: Performance testing tool
-- **Gatling**: Performance testing tool
 
 ## **Project Structure**
 ```bash
